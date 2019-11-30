@@ -1,3 +1,4 @@
 # 3 angry residents
 
-dpoc prj
+1. Briefly describe what you have done in log.txt after revising the code.
+2. Name the new file with  ‘date-name’, like '1130-Benshan'
